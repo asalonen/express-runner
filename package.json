@@ -1,0 +1,17 @@
+{
+  "name": "express-runner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo NO TESTS"
+  },
+  "author": "Antti Salonen <as.salonen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "method-override": "^2.3.6",
+    "lodash": "latest"
+  }
+}
