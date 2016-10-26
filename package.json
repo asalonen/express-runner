@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo NO TESTS"
+    "test": "echo NO TESTS",
+    "2npm": "publish"
   },
   "author": "Antti Salonen <as.salonen@gmail.com>",
   "license": "MIT",
@@ -13,5 +14,10 @@
     "express": "^4.14.0",
     "method-override": "^2.3.6",
     "lodash": "latest"
+  },
+  "devDependencies": {
+    "publish": "0.5.0"
   }
 }
+
+
