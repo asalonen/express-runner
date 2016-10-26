@@ -1,6 +1,6 @@
 # express-runner
 
-[![Build Status](http://circleci-badges-max.herokuapp.com/img/asalonen/express-runner?token=)](https://circleci.com/gh/asalonen/express-runner)
+[![Build Status](http://circleci-badges-max.herokuapp.com/img/asalonen/express-runner?token=f559b2ca9774d178275dc178d5012fc3e1333a77)](https://circleci.com/gh/asalonen/express-runner)
 
 Convenience lib for exposing code as express app
 
